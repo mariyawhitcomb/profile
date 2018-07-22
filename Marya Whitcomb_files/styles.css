@@ -1,0 +1,13 @@
+body {background-image: url("../profile/img/rough\ paper\ texture\ copy.jpg");color: rgb(86, 119, 46);}
+h1 {
+    font-family: 'Michroma', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    font-stretch: extra-expanded;
+    margin-bottom: 0;
+}
+h2 {
+    font-family: 'Cabin Sketch', cursive;
+    font-variant-caps: petite-caps;
+    text-align: center;
+}
