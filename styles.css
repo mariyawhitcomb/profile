@@ -50,5 +50,12 @@ a {
 }
 a:hover {
   color: #928e8a;
-  font-size:  25px;
+  font-size: 25px;
 }
+.picture {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  background-color: yellow;
+}
+.about {background:  green;margin:  5px;}
